@@ -1,0 +1,21 @@
+<!DOCK TYPE html>
+<html lang="en">
+<head>
+<title>my first trial page</title>
+</head>
+<body>
+  <div class="main">
+    <div class="nav">
+      <ul>
+        <li><a href="#">home</a></li>
+        <li><a href="#">contacts</a></li>
+        <li><a href="#">about</a></li>
+      </ul>
+    </div>
+    <div class="product"></div>
+    <div class="services"></div>
+    <article class="gallery"></article>
+  </div>
+  <footer></footer>
+</body>
+</html>
